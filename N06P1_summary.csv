@@ -1,0 +1,4 @@
+condition,accuracy,mean_predicted_class_probability,mean_change_in_predicted_class_probability,mean_absolute_change_in_positive_probability,number_of_changed_predictions
+Original,0.54,0.5745628734429677,0.0,0.0,0
+Adjacent swap,0.54,0.5745652894179026,2.4159749348958332e-06,6.958941618601481e-06,0
+Full shuffle,0.5433333333333333,0.5758631153901418,0.0013002419471740722,0.006540725529193878,1
